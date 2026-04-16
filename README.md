@@ -22,17 +22,13 @@
 
   <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
 
-   <picture>
-
-<!-- DARK MODE -->
+   <picture>!-- DARK MODE -->
       <source media="(prefers-color-scheme: dark)"
               srcset="dark-card.png">
-
-      <!-- LIGHT MODE -->
-      <source media="(prefers-color-scheme: light)"
+  <!-- LIGHT MODE -->
+  <source media="(prefers-color-scheme: light)"
               srcset="light-card.png">
-
-      <!-- fallback -->
+              <!-- fallback -->
       <img src="light-card.png"
            width="300"
            style="border-radius:12px;">
