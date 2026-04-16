@@ -6,39 +6,6 @@
 
 
 
-
-<tr>
-
-<td align="center" width="25%" style="padding:10px;">
-
-  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="text-decoration:none;">
-
-   <table style="border:1px solid #30363d; border-radius:12px;" cellpadding="8">
-
-   <tr>
-        <td align="center">
-
-   <img src="https://opengraph.githubassets.com/7/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
-               style="width:100%; border-radius:10px;">
-
-   <br>
-
-   <b style="color:#c9d1d9;">⚙️ PHYSICS-SIM</b>
-
-   </td>
-      </tr>
-
-   </table>
-
-  </a>
-
-</td>
-
-</tr>
-
-
-
-
 <div align="center">
 
 # ✨ 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢-𝟮𝟬𝟮𝟲 ✨
