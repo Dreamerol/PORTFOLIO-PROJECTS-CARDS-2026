@@ -1,12 +1,25 @@
 # PORTFOLIO-PROJECTS-CARDS-2026
 
 
+---
+
+
 
 
 
 
 
 ---
+
+<div align="center">
+
+## ✨ 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲 ✨
+
+</div>
+
+
+
+
 
 <table align="center">
   
