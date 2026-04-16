@@ -11,36 +11,46 @@
 
 </div>
 
-
-
-
 ---
 
 
 
-<p align="center">
+<td align="center" width="25%" style="padding:10px;">
 
-  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+  <table role="presentation"
+         cellpadding="0"
+         cellspacing="0"
+         style="background:#161b22;
+                border:1px solid #30363d;
+                border-radius:12px;
+                overflow:hidden;
+                width:100%;">
 
-   <picture>!-- DARK MODE -->
-      <source media="(prefers-color-scheme: dark)"
-              srcset="dark-card.png">
-  <!-- LIGHT MODE -->
-  <source media="(prefers-color-scheme: light)"
-              srcset="light-card.png">
-              <!-- fallback -->
-      <img src="light-card.png"
-           width="300"
-           style="border-radius:12px;">
+    <tr>
+      <td align="center" style="padding:8px;">
 
-    </picture>
+        <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
+           style="text-decoration:none;">
 
-  </a>
+          <img src="https://opengraph.githubassets.com/7/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
+               style="width:100%;
+                      display:block;
+                      border-radius:10px;">
 
-</p>
+          <div style="color:#c9d1d9;
+                      font-weight:600;
+                      padding-top:8px;">
+            ⚙️ PHYSICS-SIM
+          </div>
 
+        </a>
 
+      </td>
+    </tr>
 
+  </table>
+
+</td>
 
 
 
