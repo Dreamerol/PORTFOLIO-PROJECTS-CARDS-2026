@@ -11,7 +11,7 @@
 
 <div align="center">
 
-📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
+📍 𝗦𝗢𝗙𝗜𝗔
   </span>
   <span style="display:block; font-size:2.5em;">
     📞 +𝟯𝟱𝟵 𝟴𝟵 𝟳𝟲𝟰 𝟯𝟱𝟱𝟮
