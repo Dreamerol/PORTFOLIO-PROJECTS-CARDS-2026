@@ -167,22 +167,18 @@
   </a>
 </td>
 
-<td align="center" width="25%" style="padding:10px;">
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="text-decoration:none;">
-    <img src="https://opengraph.githubassets.com/101/Dreamerol/NEURAL-NETWORKS"
-         style="width:100%; border-radius:12px;">
-    <br>
-    <b>🤖 NEURAL-NETS</b>
-  </a>
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://opengraph.githubassets.com/101/Dreamerol/NEURAL-NETWORKS" width="100%"><br>
+<b>🤖 NEURAL-NETS</b>
+</a>
 </td>
 
-<td align="center" width="25%" style="padding:10px;">
-  <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM" style="text-decoration:none;">
-    <img src="https://opengraph.githubassets.com/7/Dreamerol/JAVA-CLOJURE-API-SYSTEM"
-         style="width:100%; border-radius:12px;">
-    <br>
-    <b>☕ JAVA-CLOJURE</b>
-  </a>
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/JAVA-CLOJURE-API-SYSTEM" width="100%"><br>
+<b>☕ JAVA-CLOJURE</b>
+</a>
 </td>
 
 <td align="center" width="25%" style="padding:10px;">
