@@ -15,32 +15,6 @@
 
 
 
-<table align="center">
-  <tr>
-
-   <td align="center" width="25%" style="padding:10px;">
-
-   <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="text-decoration:none;">
-
-   <div style="border:1px solid #30363d; border-radius:12px; overflow:hidden; background:#161b22;">
-
-<!-- CUSTOM DARK IMAGE (NOT OPENGRAPH) -->
-   <img src="https://via.placeholder.com/600x300/161b22/c9d1d9?text=PHYSICS+SIM"
-               width="100%"
-               style="display:block;">
-
-   <div style="padding:8px; color:#c9d1d9; font-weight:600;">
-            ⚙️ PHYSICS-SIM
-          </div>
-
-        </div>
-
-      </a>
-
-    </td>
-
-  </tr>
-</table>
 
 
 ---
