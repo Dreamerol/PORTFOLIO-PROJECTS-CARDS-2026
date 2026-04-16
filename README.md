@@ -5,48 +5,12 @@
 </div>
 
 
-
 <div align="center">
 
 # ✨ 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢-𝟮𝟬𝟮𝟲 ✨
 
 </div>
 
-
-
-<tr>
-
-<td align="center" width="25%" style="padding:10px;">
-
-  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="text-decoration:none;">
-
-   <div style="
-      background:#161b22;
-      border:1px solid #30363d;
-      border-radius:14px;
-      padding:10px;
-      transition:0.3s;
-    ">
-
-   <img src="https://opengraph.githubassets.com/7/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
-           style="width:100%; border-radius:10px;">
-
-   <div style="
-        color:#ffffff;
-        font-size:14px;
-        margin-top:8px;
-        font-weight:600;
-      ">
-        ⚙️ PHYSICS-SIM
-      </div>
-
-   </div>
-
-  </a>
-
-</td>
-
-</tr>
 
 
 
