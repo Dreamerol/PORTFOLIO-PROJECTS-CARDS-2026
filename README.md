@@ -26,26 +26,26 @@
                 overflow:hidden;
                 width:100%;">
 
-    <tr>
+   <tr>
       <td align="center" style="padding:8px;">
 
-        <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
+  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
            style="text-decoration:none;">
 
-          <img src="https://opengraph.githubassets.com/7/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
+   <img src="https://opengraph.githubassets.com/7/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
                style="width:100%;
                       display:block;
                       border-radius:10px;">
 
-          <div style="color:#c9d1d9;
+   <div style="color:#c9d1d9;
                       font-weight:600;
                       padding-top:8px;">
             ⚙️ PHYSICS-SIM
           </div>
 
-        </a>
+   </a>
 
-      </td>
+   </td>
     </tr>
 
   </table>
