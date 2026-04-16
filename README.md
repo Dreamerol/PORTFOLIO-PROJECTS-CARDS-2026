@@ -132,7 +132,6 @@
 
 
 
-
 <table align="center">
 
 <tr>
@@ -304,7 +303,9 @@
 
 
 
----
+
+
+
 
 
 <p align="center">
@@ -397,7 +398,6 @@
     <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
-
 
 
 ---
