@@ -180,14 +180,6 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
-<div align="center">
-
-<h1 align="center">
-<b style="color:#1f6feb; letter-spacing:1px;">
-𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 · 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
-</b>
-</h1>
-
 <br>
 
 <!-- ===================== SECTION ===================== -->
@@ -210,7 +202,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗗𝗦𝗔</b><br>
 <b style="font-size:13px;">
-𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗜𝗖 𝗧𝗛𝗜𝗡𝗞𝗜𝗡𝗚 · 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗔𝗧𝗜𝗢𝗡
+𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗜𝗖 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗔𝗧𝗜𝗢𝗡
 </b>
 </p>
 </td>
