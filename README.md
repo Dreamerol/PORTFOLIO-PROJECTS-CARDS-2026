@@ -182,116 +182,134 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
+
+
+
+
+<div align="center">
+
+<!-- ===================== SECTION 1 ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb;">
+𝗖𝗢𝗥𝗘 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+</b>
+</h3>
+
 <table align="center">
 
-<!-- ROW 1 -->
 <tr>
 
 <td align="center" width="33%" style="padding:14px;">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
 <img src="https://opengraph.githubassets.com/7/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
+style="width:100%; border-radius:14px;">
 </a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-𝗗𝗔𝗧𝗔 𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘𝗦 𝗔𝗡𝗗 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
-</p>
+<p align="center">𝗗𝗦𝗔</p>
 </td>
 
 <td align="center" width="33%" style="padding:14px;">
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
 <img src="https://opengraph.githubassets.com/7/Dreamerol/POCKER-CONSOLE-GAME"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
+style="width:100%; border-radius:14px;">
 </a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-🃏 𝗣𝗢𝗖𝗞𝗘𝗥 𝗚𝗔𝗠𝗘
-</p>
+<p align="center">𝗣𝗢𝗖𝗞𝗘𝗥</p>
 </td>
 
 <td align="center" width="33%" style="padding:14px;">
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
 <img src="https://opengraph.githubassets.com/7/Dreamerol/RUMMIKUB-CONSOLE-GAME"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
+style="width:100%; border-radius:14px;">
 </a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-🎮 𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕
-</p>
-</td>
-
-</tr>
-
-<!-- ROW 2 -->
-<tr>
-
-<td align="center" width="33%" style="padding:14px;">
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/OBJECT-ORIENTED-PROGRAMMING"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
-</a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-🧩 𝗢𝗢𝗣
-</p>
-</td>
-
-<td align="center" width="33%" style="padding:14px;">
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/OOP-PRINCIPLES-DESIGN"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
-</a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-🏗️ 𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡
-</p>
-</td>
-
-<td align="center" width="33%" style="padding:14px;">
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/LINUX-PRO-TOOLKIT"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
-</a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-🐧 𝗟𝗜𝗡𝗨𝗫 𝗧𝗢𝗢𝗟𝗞𝗜𝗧
-</p>
-</td>
-
-</tr>
-
-<!-- ROW 3 -->
-<tr>
-
-<td align="center" width="33%" style="padding:14px;">
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/PYTHON-WEB-ADVANCED"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
-</a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-🌐 𝗣𝗬𝗧𝗛𝗢𝗡 𝗪𝗘𝗕
-</p>
-</td>
-
-<td align="center" width="33%" style="padding:14px;">
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/DATABASES-SQL"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
-</a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-🗄️ 𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦
-</p>
-</td>
-
-<td align="center" width="33%" style="padding:14px;">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/JAVA-CLOJURE-API-SYSTEM"
-style="width:100%; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.25);">
-</a>
-<p align="center" style="margin-top:8px; font-size:16px; letter-spacing:1px;">
-☕ 𝗝𝗔𝗩𝗔 & 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗔𝗣𝗜
-</p>
+<p align="center">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</p>
 </td>
 
 </tr>
 
 </table>
 
+<br>
 
+<!-- ===================== SECTION 2 ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb;">
+𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘
+</b>
+</h3>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%" style="padding:14px;">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/OBJECT-ORIENTED-PROGRAMMING"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">𝗢𝗢𝗣</p>
+</td>
+
+<td align="center" width="33%" style="padding:14px;">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/OOP-PRINCIPLES-DESIGN"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">𝗗𝗘𝗦𝗜𝗚𝗡</p>
+</td>
+
+<td align="center" width="33%" style="padding:14px;">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/LINUX-PRO-TOOLKIT"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">𝗟𝗜𝗡𝗨𝗫</p>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!-- ===================== SECTION 3 ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb;">
+𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗣𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡
+</b>
+</h3>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%" style="padding:14px;">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/PYTHON-WEB-ADVANCED"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">𝗣𝗬𝗧𝗛𝗢𝗡 𝗪𝗘𝗕</p>
+</td>
+
+<td align="center" width="33%" style="padding:14px;">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/DATABASES-SQL"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">𝗦𝗤𝗟</p>
+</td>
+
+<td align="center" width="33%" style="padding:14px;">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/JAVA-CLOJURE-API-SYSTEM"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">𝗝𝗔𝗩𝗔 / 𝗖𝗟𝗢𝗝𝗨𝗥𝗘</p>
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 
 
