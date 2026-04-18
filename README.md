@@ -171,7 +171,32 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 ## 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔@FMI
 
-𝗜’𝘃𝗲 𝗮𝗹𝘄𝗮𝘆𝘀 𝗯𝗲𝗲𝗻 𝗱𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗶𝗻𝗴𝘀 𝘄𝗼𝗿𝗸 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗯𝘂𝘁 𝗳𝗶𝗴𝘂𝗿𝗶𝗻𝗴 𝗼𝘂𝘁 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗮𝗿𝗲 𝗯𝘂𝗶𝗹𝘁. 𝗧𝗵𝗶𝘀 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆 𝗹𝗲𝗱 𝗺𝗲 𝘁𝗼 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶” (𝗙𝗠𝗜), 𝘄𝗵𝗲𝗿𝗲 𝗜 𝗯𝗲𝗴𝗮𝗻 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗹𝗼𝗴𝗶𝗰, 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, 𝗮𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺 𝗱𝗲𝘀𝗶𝗴𝗻 𝗯𝗲𝘆𝗼𝗻𝗱 𝗷𝘂𝘀𝘁 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴. 𝗢𝘃𝗲𝗿 𝘁𝗶𝗺𝗲, 𝗜 𝗿𝗲𝗮𝗹𝗶𝘇𝗲𝗱 𝗜 𝗲𝗻𝗷𝗼𝘆 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗮𝗯𝘀𝘁𝗿𝗮𝗰𝘁 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗶𝗻𝘁𝗼 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗮𝗻𝗱 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝗱 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝗷𝘂𝘀𝘁 𝘄𝗿𝗶𝘁𝗶𝗻𝗴 𝗰𝗼𝗱𝗲. 𝗪𝗵𝗮𝘁 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝘄𝗶𝘁𝗵 𝘀𝗺𝗮𝗹𝗹 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 𝗲𝘅𝗲𝗿𝗰𝗶𝘀𝗲𝘀 𝗴𝗿𝗮𝗱𝘂𝗮𝗹𝗹𝘆 𝗴𝗿𝗲𝘄 𝗶𝗻𝘁𝗼 𝗱𝗲𝗲𝗽𝗲𝗿 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘀𝘂𝗰𝗵 𝗮𝘀 𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗼𝗯𝗷𝗲𝗰𝘁-𝗼𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗱𝗲𝘀𝗶𝗴𝗻𝘀, 𝘄𝗵𝗶𝗰𝗵 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝗲𝗻𝗲𝗱 𝗺𝘆 𝘀𝘆𝘀𝘁𝗲𝗺𝗮𝘁𝗶𝗰 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴 𝗮𝗻𝗱 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝘀𝗸𝗶𝗹𝗹𝘀. 𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝘄𝗶𝘁𝗵 𝗖++, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗝𝗮𝘃𝗮, 𝗦𝗤𝗟, 𝗮𝗻𝗱 𝗖𝗹𝗼𝗷𝘂𝗿𝗲, 𝗯𝘂𝘁 𝘄𝗵𝗮𝘁 𝗺𝗮𝘁𝘁𝗲𝗿𝘀 𝗺𝗼𝘀𝘁 𝘁𝗼 𝗺𝗲 𝗶𝘀 𝗻𝗼𝘁 𝘁𝗵𝗲 𝘁𝗼𝗼𝗹𝘀 𝘁𝗵𝗲𝗺𝘀𝗲𝗹𝘃𝗲𝘀, 𝗯𝘂𝘁 𝘄𝗵𝗮𝘁 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗯𝘂𝗶𝗹𝗱 𝗮𝗻𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘁𝗵𝗲𝗺. 𝗜 𝗮𝗺 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗲𝗱 𝗯𝘆 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝘁𝗵𝗮𝘁 𝗰𝗼𝗺𝗯𝗶𝗻𝗲 𝗹𝗼𝗴𝗶𝗰, 𝗺𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀, 𝗮𝗻𝗱 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, 𝗮𝗻𝗱 𝗜 𝗲𝗻𝗷𝗼𝘆 𝘁𝗵𝗲 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗼𝗳 𝗺𝗮𝗸𝗶𝗻𝗴 𝗰𝗼𝗺𝗽𝗹𝗲𝘅 𝘁𝗵𝗶𝗻𝗴𝘀 𝘀𝗶𝗺𝗽𝗹𝗲𝗿 𝗮𝗻𝗱 𝗰𝗹𝗲𝗮𝗻𝗲𝗿. 𝗥𝗶𝗴𝗵𝘁 𝗻𝗼𝘄, 𝗜 𝗮𝗺 𝗳𝗼𝗰𝘂𝘀𝗲𝗱 𝗼𝗻 𝗴𝗿𝗼𝘄𝗶𝗻𝗴 𝗮𝘀 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮-𝗼𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗲𝗿, 𝗮𝗻𝗱 𝗜 𝗮𝗺 𝗼𝗽𝗲𝗻 𝘁𝗼 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝘄𝗵𝗲𝗿𝗲 𝗜 𝗰𝗮𝗻 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲, 𝗹𝗲𝗮𝗿𝗻, 𝗮𝗻𝗱 𝗴𝗿𝗼𝘄 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝗹𝘆.
+
+𝗜’𝘃𝗲 𝗮𝗹𝘄𝗮𝘆𝘀 𝗯𝗲𝗲𝗻 𝗱𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗶𝗻𝗴𝘀 𝘄𝗼𝗿𝗸 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗯𝘂𝘁 𝗳𝗶𝗴𝘂𝗿𝗶𝗻𝗴 𝗼𝘂𝘁 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗮𝗿𝗲 𝗯𝘂𝗶𝗹𝘁.
+
+This curiosity naturally led me to Software Engineering at Sofia University “St. Kliment Ohridski” (FMI), where I began exploring not only programming, but also the logic, structure, and design behind complex systems.
+
+Over time, I realized I enjoy the process of turning abstract problems into clear, working solutions more than just writing code.
+
+---
+
+What started with small algorithm exercises gradually grew into deeper projects — simulation systems, data-driven applications, and object-oriented designs. Each one helped me improve my structured thinking, debugging skills, and patience when solving complex problems.
+
+---
+
+I’ve worked with C++, Python, Java, SQL, and Clojure, but what matters most to me is not the tools themselves — it’s what you can build and understand through them.
+
+---
+
+I am especially motivated by problems that combine logic, mathematics, and real-world structure. I enjoy simplifying complexity and building systems that are clean and understandable.
+
+Outside of coding, I value consistency, discipline, and continuous learning over quick results.
+
+---
+
+Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design.
+
+I am open to opportunities where I can contribute to real systems, learn from experienced engineers, and continue developing both technically and professionally.
 
 </div>
 
