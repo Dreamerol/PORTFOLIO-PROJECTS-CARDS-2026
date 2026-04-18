@@ -171,6 +171,7 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 ## 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔@FMI
 
+<h3 align="center">
 
 𝗜’𝘃𝗲 𝗮𝗹𝘄𝗮𝘆𝘀 𝗯𝗲𝗲𝗻 𝗱𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗶𝗻𝗴𝘀 𝘄𝗼𝗿𝗸 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗯𝘂𝘁 𝗳𝗶𝗴𝘂𝗿𝗶𝗻𝗴 𝗼𝘂𝘁 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗮𝗿𝗲 𝗯𝘂𝗶𝗹𝘁.
 
@@ -197,6 +198,10 @@ Outside of coding, I value consistency, discipline, and continuous learning over
 Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design.
 
 I am open to opportunities where I can contribute to real systems, learn from experienced engineers, and continue developing both technically and professionally.
+
+ </a>
+ 
+</h3>
 
 </div>
 
