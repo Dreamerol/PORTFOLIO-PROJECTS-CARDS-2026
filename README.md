@@ -179,27 +179,27 @@ This curiosity naturally led me to Software Engineering at Sofia University (FMI
 
 Over time, I realized I enjoy the process of turning abstract problems into clear, working solutions more than just writing code.
 
-
+---
 
 What started with small algorithm exercises gradually grew into deeper projects — simulation systems, data-driven applications, and object-oriented designs. Each one helped me improve my structured thinking, debugging skills, and patience when solving complex problems.
 
-
+---
 
 I’ve worked with C++, Python, Java, SQL, and Clojure, but what matters most to me is not the tools themselves — it’s what you can build and understand through them.
 
-
+---
 
 I am especially motivated by problems that combine logic, mathematics, and real-world structure. I enjoy simplifying complexity and building systems that are clean and understandable.
 
 Outside of coding, I value consistency, discipline, and continuous learning over quick results.
 
-
+---
 
 Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design.
 
 I am open to opportunities where I can contribute to real systems, learn from experienced engineers, and continue developing both technically and professionally.
 
- </a>
+</a>
  
 </h2>
 
