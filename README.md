@@ -171,7 +171,7 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 <div align="center">
 
 
-<h2>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲 - 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜</h2>  
+<h2>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲 - 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</h2>  
 
 
 </div>
