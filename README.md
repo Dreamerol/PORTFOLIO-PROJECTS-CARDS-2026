@@ -278,7 +278,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗗𝗘𝗦𝗜𝗚𝗡</b><br>
 <b style="font-size:13px;">
-𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 · 𝗦𝗖𝗔𝗟𝗔𝗕𝗜𝗟𝗜𝗧𝗬
+𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘
 </b>
 </p>
 </td>
@@ -292,7 +292,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗟𝗜𝗡𝗨𝗫</b><br>
 <b style="font-size:13px;">
-𝗖𝗟𝗜 𝗧𝗢𝗢𝗟𝗜𝗡𝗚 · 𝗦𝗬𝗦𝗧𝗘𝗠 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦
+𝗦𝗬𝗦𝗧𝗘𝗠 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦
 </b>
 </p>
 </td>
