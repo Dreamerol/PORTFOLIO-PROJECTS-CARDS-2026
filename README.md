@@ -167,7 +167,7 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 <div align="center">
 
 
-<h2>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</h2>  
+<h2>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦</h2>  
 
 
 </div>
@@ -228,8 +228,6 @@ width="320" style="height:auto; border-radius:12px;">
 
 
 
-
-----
 <!-- ===================== SYSTEMS ===================== -->
 <h3 align="center" style="margin:10px 0 5px 0;">
 <b style="color:#1f6feb; font-size:18px;">
