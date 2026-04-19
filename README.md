@@ -254,8 +254,8 @@ style="object-fit:cover;border-radius:12px;">
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;">
+width="320"
+style="height:auto; object-fit:cover; border-radius:12px;">
 </a>
 <br>
 <span style="font-size:22px; font-weight:800; color:#1f6feb;">
@@ -270,8 +270,8 @@ style="object-fit:cover;border-radius:12px;">
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;">
+width="320"
+style="height:auto; object-fit:cover; border-radius:12px;">
 </a>
 <br>
 <span style="font-size:22px; font-weight:800; color:#1f6feb;">
@@ -286,8 +286,8 @@ style="object-fit:cover;border-radius:12px;">
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;">
+width="320"
+style="height:auto; object-fit:cover; border-radius:12px;">
 </a>
 <br>
 <span style="font-size:22px; font-weight:800; color:#1f6feb;">
@@ -304,7 +304,6 @@ style="object-fit:cover;border-radius:12px;">
 </div>
 
 <br>
-
 
 
 
