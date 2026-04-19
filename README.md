@@ -226,7 +226,7 @@ width="320" height="220" style="border-radius:12px;display:block;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖𝗣𝗣</div>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</div>
 </div>
 </td>
 
@@ -236,7 +236,7 @@ width="320" height="220" style="border-radius:12px;display:block;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗢𝗢𝗣</div>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</div>
 </div>
 </td>
 
@@ -246,7 +246,7 @@ width="320" height="220" style="border-radius:12px;display:block;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗟𝗜𝗡𝗨𝗫</div>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠</div>
 </div>
 </td>
 
@@ -261,7 +261,7 @@ width="320" height="220" style="border-radius:12px;display:block;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗬𝗧𝗛𝗢𝗡</div>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗬𝗧𝗛𝗢𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧</div>
 </div>
 </td>
 
@@ -271,7 +271,7 @@ width="320" height="220" style="border-radius:12px;display:block;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗦𝗤𝗟</div>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</div>
 </div>
 </td>
 
@@ -281,7 +281,7 @@ width="320" height="220" style="border-radius:12px;display:block;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖𝗟𝗢𝗝𝗨𝗥𝗘</div>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧</div>
 </div>
 </td>
 
