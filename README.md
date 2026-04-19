@@ -176,6 +176,103 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 </div>
 
+---
+
+<br>
+
+<!-- ===================== SECTION ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb; font-size:18px;">
+𝗖𝗢𝗥𝗘 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+</b>
+</h3>
+
+<div align="center">
+<table align="center">
+
+<tr>
+
+<!-- 1 -->
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220"
+style="object-fit:cover;border-radius:12px;">
+</a>
+<br>
+<span style="font-size:22px; font-weight:800; color:#1f6feb;">
+𝗗𝗦𝗔
+</span><br>
+<span style="font-size:14px; font-weight:700;">
+𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
+</span>
+</td>
+
+<!-- 2 -->
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220"
+style="object-fit:cover;border-radius:12px;">
+</a>
+<br>
+<span style="font-size:22px; font-weight:800; color:#1f6feb;">
+𝗣𝗢𝗖𝗞𝗘𝗥
+</span><br>
+<span style="font-size:14px; font-weight:700;">
+𝗚𝗔𝗠𝗘
+</span>
+</td>
+
+</tr>
+
+</table>
+</div>
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
