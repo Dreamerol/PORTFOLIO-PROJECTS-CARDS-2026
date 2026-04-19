@@ -179,129 +179,46 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
+
+
+
+
 <div align="center">
 <table align="center">
 <tr>
 
-<!-- CORE -->
 <td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗗𝗦𝗔</span><br>
-<span style="font-size:14px; font-weight:700;">𝗔𝗹𝗴𝗼</span>
+<span style="font-size:14px; font-weight:700;">𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</span>
 </td>
 
 <td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗣𝗼𝗰𝗸𝗲𝗿</span><br>
-<span style="font-size:14px; font-weight:700;">𝗚𝗮𝗺𝗲</span>
+<span style="font-size:14px; font-weight:700;">𝗣𝗢𝗖𝗞𝗘𝗥</span>
 </td>
 
 <td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗥𝘂𝗺𝗺𝗶𝗸𝘂𝗯</span><br>
-<span style="font-size:14px; font-weight:700;">𝗚𝗮𝗺𝗲</span>
+<span style="font-size:14px; font-weight:700;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</span>
 </td>
 
 </tr>
-
-<!-- SYSTEMS -->
-<tr>
-
-<td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗖++</span><br>
-<span style="font-size:14px; font-weight:700;">𝗢𝗢𝗣</span>
-</td>
-
-<td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗢𝗢𝗣</span><br>
-<span style="font-size:14px; font-weight:700;">𝗣𝗿𝗶𝗻𝗰</span>
-</td>
-
-<td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗟𝗶𝗻𝘂𝘅</span><br>
-<span style="font-size:14px; font-weight:700;">𝗦𝘆𝘀</span>
-</td>
-
-</tr>
-
-<!-- BACKEND -->
-<tr>
-
-<td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗣𝘆𝘁𝗵𝗼𝗻</span><br>
-<span style="font-size:14px; font-weight:700;">𝗪𝗲𝗯</span>
-</td>
-
-<td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗦𝗤𝗟</span><br>
-<span style="font-size:14px; font-weight:700;">𝗗𝗮𝘁𝗮</span>
-</td>
-
-<td align="center" width="360" style="padding:6px 10px;">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<img src="same-image.jpg"
-width="320" height="220"
-style="object-fit:cover;border-radius:12px;display:block;">
-</a>
-<br>
-<span style="font-size:18px; font-weight:800; color:#1f6feb;">𝗖𝗹𝗼𝗷𝘂𝗿𝗲</span><br>
-<span style="font-size:14px; font-weight:700;">𝗙𝗽</span>
-</td>
-
-</tr>
-
 </table>
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
-
-
 
 
 
