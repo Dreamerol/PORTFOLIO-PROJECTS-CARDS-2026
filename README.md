@@ -191,7 +191,7 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗗𝗦𝗔</div>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</div>
 </div>
 </td>
 
