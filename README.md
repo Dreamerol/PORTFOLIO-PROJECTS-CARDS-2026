@@ -175,7 +175,20 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 ---
 
+
+
+
+
+
+
+
 <div align="center">
+
+<table>
+<tr>
+
+<!-- ================= COL 1 ================= -->
+<td align="center" style="padding:8px; vertical-align:top;">
 
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
 <div style="display:inline-block;">
@@ -185,6 +198,31 @@ width="320" height="220" style="border-radius:12px;display:block;">
 </div>
 </a>
 
+<br><br>
+
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<div style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+<div style="margin-top:-42px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖++</div>
+</div>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<div style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+<div style="margin-top:-42px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗬𝗧𝗛𝗢𝗡</div>
+</div>
+</a>
+
+</td>
+
+<!-- ================= COL 2 ================= -->
+<td align="center" style="padding:8px; vertical-align:top;">
+
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
 <div style="display:inline-block;">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
@@ -192,6 +230,31 @@ width="320" height="220" style="border-radius:12px;display:block;">
 <div style="margin-top:-42px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗢𝗖𝗞𝗘𝗥</div>
 </div>
 </a>
+
+<br><br>
+
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<div style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+<div style="margin-top:-42px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗢𝗢𝗣</div>
+</div>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<div style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+<div style="margin-top:-42px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗦𝗤𝗟</div>
+</div>
+</a>
+
+</td>
+
+<!-- ================= COL 3 ================= -->
+<td align="center" style="padding:8px; vertical-align:top;">
 
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
 <div style="display:inline-block;">
@@ -201,7 +264,48 @@ width="320" height="220" style="border-radius:12px;display:block;">
 </div>
 </a>
 
+<br><br>
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<div style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+<div style="margin-top:-42px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗟𝗜𝗡𝗨𝗫</div>
 </div>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<div style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+<div style="margin-top:-42px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖𝗟𝗢𝗝𝗨𝗥𝗘</div>
+</div>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
