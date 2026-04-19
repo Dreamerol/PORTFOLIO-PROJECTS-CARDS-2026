@@ -181,107 +181,115 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 <div align="center">
 
 <table>
+
+<!-- ROW 1 -->
 <tr>
 
-<!-- COL 1 -->
 <td align="center" width="360" style="padding:8px; vertical-align:top;">
-
+<div style="width:320px; height:240px;">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
+width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗗𝗦𝗔</div>
-
-<br><br>
-
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
-</a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖++</div>
-
-<br><br>
-
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
-</a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗬𝗧𝗛𝗢𝗡</div>
-
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗗𝗦𝗔</div>
+</div>
 </td>
 
-<!-- COL 2 -->
 <td align="center" width="360" style="padding:8px; vertical-align:top;">
-
+<div style="width:320px; height:240px;">
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
+width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗢𝗖𝗞𝗘𝗥</div>
-
-<br><br>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
-</a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗢𝗢𝗣</div>
-
-<br><br>
-
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
-</a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗦𝗤𝗟</div>
-
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗢𝗖𝗞𝗘𝗥</div>
+</div>
 </td>
 
-<!-- COL 3 -->
 <td align="center" width="360" style="padding:8px; vertical-align:top;">
-
+<div style="width:320px; height:240px;">
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
+width="320" height="220" style="border-radius:12px;display:block;">
 </a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</div>
-
-<br><br>
-
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
-</a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗟𝗜𝗡𝗨𝗫</div>
-
-<br><br>
-
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220"
-style="border-radius:12px;display:block;">
-</a>
-<div style="margin-top:-38px;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖𝗟𝗢𝗝𝗨𝗥𝗘</div>
-
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</div>
+</div>
 </td>
 
 </tr>
+
+<!-- ROW 2 -->
+<tr>
+
+<td align="center" width="360" style="padding:8px; vertical-align:top;">
+<div style="width:320px; height:240px;">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+</a>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖𝗣𝗣</div>
+</div>
+</td>
+
+<td align="center" width="360" style="padding:8px; vertical-align:top;">
+<div style="width:320px; height:240px;">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+</a>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗢𝗢𝗣</div>
+</div>
+</td>
+
+<td align="center" width="360" style="padding:8px; vertical-align:top;">
+<div style="width:320px; height:240px;">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+</a>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗟𝗜𝗡𝗨𝗫</div>
+</div>
+</td>
+
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+
+<td align="center" width="360" style="padding:8px; vertical-align:top;">
+<div style="width:320px; height:240px;">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+</a>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗣𝗬𝗧𝗛𝗢𝗡</div>
+</div>
+</td>
+
+<td align="center" width="360" style="padding:8px; vertical-align:top;">
+<div style="width:320px; height:240px;">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+</a>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗦𝗤𝗟</div>
+</div>
+</td>
+
+<td align="center" width="360" style="padding:8px; vertical-align:top;">
+<div style="width:320px; height:240px;">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;display:block;">
+</a>
+<div style="text-align:center;font-size:20px;font-weight:800;color:white;text-shadow:0 2px 6px rgba(0,0,0,0.85);">𝗖𝗟𝗢𝗝𝗨𝗥𝗘</div>
+</div>
+</td>
+
+</tr>
+
 </table>
 
 </div>
-
-
-
-
-
 
 
 
