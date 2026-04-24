@@ -403,7 +403,7 @@ Over time, I realized I enjoy the process of turning abstract problems into clea
 
 ---
 
-Outside of coding, I value consistency, discipline, and continuous learning over quick results. --- Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design. Open to contributing to real systems while learning from experienced engineers and growing both technically and professionally. </a> </h2> </div>
+Outside of coding, I value consistency, discipline, and continuous learning over quick results. Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design. Open to contributing to real systems while learning from experienced engineers and growing both technically and professionally. </a> </h2> </div>
 
 
 ---
