@@ -399,19 +399,17 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <div align="center" style="max-width:800px; margin:auto; text-align:center;">
 
-𝗜’𝘃𝗲 𝗮𝗹𝘄𝗮𝘆𝘀 𝗯𝗲𝗲𝗻 𝗱𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗶𝗻𝗴𝘀 𝘄𝗼𝗿𝗸 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗯𝘂𝘁 𝗳𝗶𝗴𝘂𝗿𝗶𝗻𝗴 𝗼𝘂𝘁 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗮𝗿𝗲 𝗯𝘂𝗶𝗹𝘁.  
-This curiosity naturally led me to Software Engineering at Sofia University (FMI), where I began exploring not only programming, but also the logic, structure, and design behind complex systems. Over time, I realized I enjoy the process of turning abstract problems into clear, working solutions more than just writing code.
 
-<br/><br/>
+𝗜’𝘃𝗲 𝗮𝗹𝘄𝗮𝘆𝘀 𝗯𝗲𝗲𝗻 𝗱𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗶𝗻𝗴𝘀 𝘄𝗼𝗿𝗸 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗯𝘂𝘁 𝗳𝗶𝗴𝘂𝗿𝗶𝗻𝗴 𝗼𝘂𝘁 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗮𝗿𝗲 𝗯𝘂𝗶𝗹𝘁. This curiosity naturally led me to Software Engineering at Sofia University (FMI), where I began exploring not only programming, but also the logic, structure, and design behind complex systems. 
 
-I am especially motivated by problems that combine logic, mathematics, and real-world structure. I enjoy simplifying complexity and building systems that are clean and understandable. Outside of coding, I value consistency, discipline, and continuous learning over quick results.
+---
 
-<br/><br/>
+Over time, I realized I enjoy the process of turning abstract problems into clear, working solutions more than just writing code. --- I am especially motivated by problems that combine logic, mathematics, and real-world structure. I enjoy simplifying complexity and building systems that are clean and understandable. 
 
-Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design.  
-Open to contributing to real systems while learning from experienced engineers and growing both technically and professionally.
+---
 
-</div>
+Outside of coding, I value consistency, discipline, and continuous learning over quick results. --- Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design. Open to contributing to real systems while learning from experienced engineers and growing both technically and professionally. </a> </h2> </div>
+
 
 ---
 
