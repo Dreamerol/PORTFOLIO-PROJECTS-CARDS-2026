@@ -47,8 +47,8 @@
 
 
 
----
 
+<br>
 
 
 <h2 align="center">
@@ -64,7 +64,7 @@ Python • SQL • Data Analysis • Machine Learning
 </h3>
 
 
----
+<br>
 
 
 <h3 align="center">
